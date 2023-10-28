@@ -1,0 +1,7 @@
+************* Module test_program
+test_program.py:47:0: C0301: Line too long (101/100) (line-too-long)
+test_program.py:48:0: C0301: Line too long (101/100) (line-too-long)
+test_program.py:24:8: W0632: Possible unbalanced tuple unpacking with sequence defined at line 21 of program: left side has 2 labels, right side has 0 values (unbalanced-tuple-unpacking)
+
+------------------------------------------------------------------
+Your code has been rated at 8.89/10 (previous run: 8.89/10, +0.00)
